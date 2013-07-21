@@ -13,7 +13,7 @@ The installation of RDKit can be be tricky.
 * MacOS brew formula https://github.com/edc/homebrew-rdkit
 * Linux (including troubleshooting) http://www.rdkit.org/docs/Install.html
 
-
+Here come the iPython notebooks:
 * [iPython ifself](http://nbviewer.ipython.org/urls/raw.github.com/pzc/cadd-grc-2013/master/000_ipython_itself.ipynb)
 * [Basics](http://nbviewer.ipython.org/urls/raw.github.com/pzc/cadd-grc-2013/master/001_TheBasics.ipynb)
 * [MCSS, 2D Depictin](http://nbviewer.ipython.org/urls/raw.github.com/pzc/cadd-grc-2013/master/002_2D_Depiction_MCS.ipynb)
