@@ -13,9 +13,10 @@ The installation of RDKit can be be tricky.
 * MacOS brew formula https://github.com/edc/homebrew-rdkit
 * Linux (including troubleshooting) http://www.rdkit.org/docs/Install.html
 
-http://nbviewer.ipython.org/urls/raw.github.com/pzc/cadd-grc-2013/master/000_ipython_itself.ipynb
-http://nbviewer.ipython.org/urls/raw.github.com/pzc/cadd-grc-2013/master/001_TheBasics.ipynb
-http://nbviewer.ipython.org/urls/raw.github.com/pzc/cadd-grc-2013/master/002_2D_Depiction_MCS.ipynb
-http://nbviewer.ipython.org/urls/raw.github.com/pzc/cadd-grc-2013/master/003_RandomForest_kappa_et_al.ipynb
-http://nbviewer.ipython.org/urls/raw.github.com/pzc/cadd-grc-2013/master/004_kappa__largely_imbalanced_dataset.ipynb
-http://nbviewer.ipython.org/urls/raw.github.com/pzc/cadd-grc-2013/master/005_yscrambling.ipynb
+
+* [iPython ifself](http://nbviewer.ipython.org/urls/raw.github.com/pzc/cadd-grc-2013/master/000_ipython_itself.ipynb)
+* [Basics](http://nbviewer.ipython.org/urls/raw.github.com/pzc/cadd-grc-2013/master/001_TheBasics.ipynb)
+* [MCSS, 2D Depictin](http://nbviewer.ipython.org/urls/raw.github.com/pzc/cadd-grc-2013/master/002_2D_Depiction_MCS.ipynb)
+* [Random Forest](http://nbviewer.ipython.org/urls/raw.github.com/pzc/cadd-grc-2013/master/003_RandomForest_kappa_et_al.ipynb)
+* [Imbalanced Datasets](http://nbviewer.ipython.org/urls/raw.github.com/pzc/cadd-grc-2013/master/004_kappa__largely_imbalanced_dataset.ipynb)
+* [Y-Scrambling](http://nbviewer.ipython.org/urls/raw.github.com/pzc/cadd-grc-2013/master/005_yscrambling.ipynb)
