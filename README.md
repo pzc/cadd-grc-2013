@@ -1,19 +1,33 @@
 cadd-grc-2013
 =============
 
+Run interactively
+-----------------
+
 What you'll need:
 
-* ipython (http://ipython.org/install.html)
-* scikit-learn (http://scikit-learn.org/stable/install.html#installing-an-official-release)
-* matplotlib (http://matplotlib.org/downloads.html)
-* pystatsmodels (https://github.com/yarikoptic/pystatsmodels)
+* [ipython](http://ipython.org/install.html)
+* [scikit-learn](http://scikit-learn.org/stable/install.html#installing-an-official-release)
+* [matplotlib](http://matplotlib.org/downloads.html)
+* [pystatsmodels](https://github.com/yarikoptic/pystatsmodels)
+
+The easier way to get these is with [Anaconda](http://www.continuum.io/downloads).
 
 The installation of RDKit can be be tricky.
-* Windows Binaries: http://sourceforge.net/projects/rdkit/files/rdkit/Q1_2013/)
-* MacOS brew formula https://github.com/edc/homebrew-rdkit
-* Linux (including troubleshooting) http://www.rdkit.org/docs/Install.html
+* [Windows](http://sourceforge.net/projects/rdkit/files/rdkit/Q1_2013/) (Binaries)
+* [Mac OS](https://github.com/edc/homebrew-rdkit) (Homebrew tap)
+* [Linux](http://www.rdkit.org/docs/Install.html) (from source)
 
-Here come the iPython notebooks:
+Launch the IPython Notebook with:
+
+    ipython notebook --pylab inline
+
+
+View as static notebooks
+------------------------
+
+Here come the iPython notebooks viewable as static HTML:
+
 * [iPython ifself](http://nbviewer.ipython.org/urls/raw.github.com/pzc/cadd-grc-2013/master/000_ipython_itself.ipynb)
 * [RDKit Basics](http://nbviewer.ipython.org/urls/raw.github.com/pzc/cadd-grc-2013/master/001_TheBasics.ipynb)
 * [MCSS, 2D Depiction](http://nbviewer.ipython.org/urls/raw.github.com/pzc/cadd-grc-2013/master/002_2D_Depiction_MCS.ipynb)
